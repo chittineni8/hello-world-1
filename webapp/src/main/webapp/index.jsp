@@ -4,7 +4,7 @@
 Registration Page  
 </title>  
 </head>  
-<body bgcolor="Lightskyblue">  
+<body bgcolor="SlateBlue">  
 <br>  
 <br>  
 <form>  
@@ -26,7 +26,9 @@ Course :
 <option value="B.Tech">B.Tech</option>  
 <option value="MBA">MBA</option>  
 <option value="MCA">MCA</option>  
-<option value="M.Tech">M.Tech</option>  
+<option value="M.Tech1">M.Tech1</option> 
+<option value="M.Tech2">M.Tech2</option>
+<option value="M.Tech3">M.Tech3</option> 
 </select>  
   
 <br>  
@@ -54,7 +56,7 @@ Email:
 <input type="email" id="email" name="email"/> <br>    
 <br> <br>  
 Password:  
-<input type="Password" id="pass" name="pass"> <br>   
+<input type="Password" id="password" name="pass"> <br>   
 <br> <br>  
 Re-type password:  
 <input type="Password" id="repass" name="repass"> <br> <br>  
